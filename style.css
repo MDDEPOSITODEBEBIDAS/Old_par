@@ -65,8 +65,18 @@ img{
     flex-direction: column;
 }
 .ttt{
-    padding-right: 160px;
+    padding-right: 190px;
+    
 }
+.porrinha{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+}
+
 
 .flinha {
     position: relative;
@@ -118,7 +128,7 @@ img{
 
 
 .img-pk {
-    width: 140px;
+    width: 130px;
     filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.5));
     opacity: 0;
     transform: translateX(-100px) rotate(0deg);
