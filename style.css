@@ -128,7 +128,7 @@ img{
 
 
 .img-pk {
-    width: 130px;
+    width: 110px;
     filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.5));
     opacity: 0;
     transform: translateX(-100px) rotate(0deg);
