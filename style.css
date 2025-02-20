@@ -50,7 +50,7 @@ img{
 .shadow {
     margin-left: 60px;
     position: absolute;
-    top: 360px; /* Posiciona a sombra no topo da imagem */
+    top: 320px; /* Posiciona a sombra no topo da imagem */
     width: 240px; /* Largura da sombra */
     height: 20px; /* Altura da sombra */
     background: rgba(0, 0, 0, 0.5);
